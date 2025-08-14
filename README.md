@@ -24,7 +24,7 @@ Cross-platform deployment capability on local or cloud environments
 
 Tech Stack
 
-Languages & Libraries: Python, NLTK, Pandas, Regex
+Languages & Libraries: Python, NLTK,FastApi
 
 Frontend: Gradio Web Interface
 
