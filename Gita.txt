@@ -1,0 +1,200 @@
+1	कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।	You have the right to work, not to the fruits of work.	Neutral
+2	योगस्थः कुरु कर्माणि सङ्गं त्यक्त्वा धनंजय।	Perform actions with steady mind, free of attachment.	Positive
+3	न हि कश्चित्क्षणमपि जातु तिष्ठत्यकर्मकृत्।	No one is ever without action even for a moment.	Neutral
+4	श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात्।	Better your own duty, even if imperfect, than another's well.	Positive
+5	सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज।	Abandon all duties and take refuge in Me alone.	Positive
+6	यदा यदा हि धर्मस्य ग्लानिर्भवति भारत।	Whenever righteousness declines, I manifest myself.	Positive
+7	अहं सर्वस्य प्रभवो मत्तः सर्वं प्रवर्तते।	I am the source of all; from Me everything proceeds.	Neutral
+8	विषयैश्वर्यविमुक्तानां सुखं ब्राम्हणगतम्।	The bliss of those free from desire is akin to the sage’s joy.	Positive
+9	इमं विवस्वते योगं प्रोक्तवानहमव्ययम्।	I taught this imperishable yoga to Vivasvan long ago.	Neutral
+10	यथागतं सुसमाचरन्।	Behave steadily on the path you have chosen.	Neutral
+11	मामेवैष्यसि युक्तः कर्मबुद्धिर्विमुच्यते।	Those who act with devotion to Me are liberated.	Positive
+12	ज्ञेयः स नित्यसंन्यासी यो न द्वेष्टि न काङ्क्षति।	He is to be known as a constant renouncer who neither hates nor desires.	Positive
+13	उद्धरेदात्मनाऽऽत्मानं नाऽऽत्मानमवसादयेत्।	Raise yourself by yourself; do not degrade yourself.	Positive
+14	क्लेशोऽधिकतरस्तेषामव्यक्तासक्तचेतसाम्।	Difficulty is greater for minds attached to the unmanifest.	Negative
+15	यत्करोषि यदश्नासि यज्जुहोषि ददासि यत्।	Whatever you do, eat, offer or give—do it as an offering to Me.	Positive
+16	समोऽहं सर्वभूतेषु न मे द्वेष्योऽस्ति न प्रियः।	I am the same to all beings; I have no hate nor fondness.	Neutral
+17	वितरागभयक्रोधा मन्मया मामुपाश्रिता।	Those without attachment, fear, or anger who are devoted to me...	Positive
+18	विवेकविहितं बुद्ध्या तन्तुश्च सूक्ष्मबुद्धया।	Use discriminative intellect and subtle understanding.	Neutral
+19	कर्मणैव हि संसिद्धिमास्थिता जनकादयः।	Perfection by action was achieved by Janaka and others.	Positive
+20	नासतो विद्यते भावो नाभावो विद्यते सतः।	Non-existent has no being; the existent never ceases.	Neutral
+21	छिन्नमात्रेण समानेन।	By a mere fraction, things change — be equanimous.	Neutral
+22	समत्वं योग उच्यते।	Equanimity is called yoga.	Positive
+23	ह्येवं प्रवर्तितं चक्रं नानुवर्तयतीह य:।	This cycle proceeds; none who follow it are freed easily.	Neutral
+24	शान्तिं नियमेन्द्रियार्थेन्द्रियक्रियाविरतः।	Peace comes by restraining senses and actions through discipline.	Positive
+25	दमोऽयमात्मशुद्धौ श्रेयः श्रेयस्य परं तमः।	Self-control in self-purification is the supreme good.	Positive
+26	यत्र योगेश्वरः कृष्णो यत्र पार्थो धनुर्धरः।	Where Krishna is the Lord of yoga and Arjuna the archer...	Positive
+27	न त्वहमार्य त्वं मे समीपस्थः।	I am not far, nor are you near — remain in devotion.	Neutral
+28	आत्मौपम्येन सर्वत्र समं पश्यति योऽर्जुन।	One who sees all with the eye of the Self sees Dharma everywhere.	Positive
+29	हतो वा प्राप्स्यसि स्वर्गं जघन्ये पुण्यकृत्।	If killed or victorious, you shall attain heaven by your righteous deed.	Neutral
+30	यज्ञार्थात्कर्मणोऽन्यत्र लोकोऽयं कर्मबन्धनः।	People are bound by action when working for results, not for sacrifice.	Negative
+31	कुरु कर्मेव तुम्।	Do your duty alone.	Neutral
+32	यो मां पश्यति सर्वत्र सर्वं च मयि पश्यति।	He who sees Me in all and all in Me—he is steady.	Positive
+33	निर्विकल्पोऽयं तद्ब्रह्म।	This is Brahman without conceptual distinctions.	Neutral
+34	मुक्तिः परमा हि बुधाः।	For the wise, liberation is supreme.	Positive
+35	दुःखेष्वनुद्विग्नमनाः सुखेषु विगतस्पृहः।	Unaffected in sorrow and free from craving in pleasure.	Positive
+36	अभ्यासेन तु कौन्तेय विपश्यनेन चाविध्या।	Practice and clear seeing remove ignorance.	Positive
+37	धृतराष्ट्रो वा महात्मन्।	Maintain steadiness like Dhritarashtra (example).	Neutral
+38	परित्राणाय साधूनां विनाशाय च दुष्कृताम्।	For protecting the good and destroying the wicked I appear.	Positive
+39	योगः कर्मसु कौशलम्।	Yoga is skill in action.	Positive
+40	अनित्याश्च भूतानां नित्यश्च भगवान्।	Beings are transient; the Lord is eternal.	Neutral
+41	अहं सर्वस्य प्रभवो मत्तः सर्वं प्रवर्तते।	I am the origin of all; everything proceeds from Me.	Neutral
+42	यथा हि वायुः सर्वत्र व्याप्यते।	As air pervades everywhere—so does I pervade.	Neutral
+43	न दुःखं कुरुते चेतुरा आत्मन्येवात्मना तुष्टाः।	Those satisfied in the Self do not grieve.	Positive
+44	नाहं प्रवर्यव्याति तु।	I am not interrupted; I remain supreme.	Neutral
+45	अहं सर्वत्र सर्वं च नोहं तेषु चान्यथा।	I am present everywhere and in all things.	Neutral
+46	न मे विदुः सर्वमिव।	They do not fully know Me.	Neutral
+47	यस्य संप्रज्ञात्मा सांप्रज्ञो भवति।	He of steady intelligence becomes contemplative.	Neutral
+48	विविक्तसेवा ये तपस्विनः सान्त्वनमश्नवन्ति।	Austerities in seclusion bring inner calm.	Positive
+49	वैराग्येण चोपस्थिते।	When detachment is established...	Positive
+50	सर्वसंन्यासी युक्त एव मम भक्तिम्।	A total renouncer, joined with devotion to Me.	Positive
+51	आत्मौपम्येन सर्वत्र समं पश्यति।	Seeing all alike through self-like vision.	Positive
+52	अभयं सवत्र समाश्रयः।	Take refuge without fear.	Positive
+53	प्रयत्नेन भरतर्षभ।	With effort, O best of Bharata.	Positive
+54	सर्वेषामात्मस्वरूपणाम्।	Of all, perceive their own Self.	Neutral
+55	समत्वं परमं सुखम्।	Equanimity is the highest happiness.	Positive
+56	हिंसा न करिष्ये जीवोन्नं विमोघतया।	I will not harm any living being wantonly.	Positive
+57	यथा संहरते चायं कूर्मोऽङ्गानीव सर्वशः।	As a tortoise withdraws limbs, withdraw senses completely.	Positive
+58	कर्मेन्द्रियाणि संयम्य य आस्ते मनसा स्मरन्।	Controlling senses, remembering Me in mind.	Positive
+59	षड्भिः प्राहुर्यथेन्द्रियैः।	Six-fold control of the senses is taught.	Neutral
+60	नैव तस्यां परिथयः।	There is no disparagement in that state.	Neutral
+61	इन्द्रियाणि पराण्याहुरिन्द्रियेषु आत्मा।	Senses are superior to the sense-objects; the Self is superior to the senses.	Neutral
+62	अहंकारपरिदाहोऽयं ह्येतद्बुद्धिनाशनम्।	Ego's burning is destroyed by enlightening knowledge.	Positive
+63	यत् सुकृतमात्मना तत्त्वेन सेवधर्मणाम्।	What is rightly done in duty leads to self-quality.	Positive
+64	विषयेन्द्रियसंयोगाद्।	From contact with sense-objects arises attachment.	Negative
+65	द्वन्द्वातीतमशीतोष्णसुखदुःखयोर्व्रतम्।	To be beyond pairs of opposites—this is the vow.	Positive
+66	सर्वदुःखान्विमुक्तो भव।	Be freed from all sorrow.	Positive
+67	स तु दीर्घश्चिरकालिक्यः।	Hold steady for a long time.	Neutral
+68	न हि क्षिप्रमेधावी।	The quick-witted are rare.	Neutral
+69	आत्मनः प्रतिपालने।	By guarding the Self.	Positive
+70	यदा संहते चित्ते बहुधा विजयं लभेत्।	When the mind is steady, one gains many victories.	Positive
+71	निराशीर्यतचित्तात्मा।	The mind that is detached and determined...	Positive
+72	सहजं सन्नियम्येव।	By control that is natural and steady.	Positive
+73	अविद्यासहाय्येन।	With the help of ignorance (i.e., through removing it).	Neutral
+74	विपश्चित् समेन्द्रियाः।	The wise have controlled senses.	Positive
+75	वैराग्ये दधेयं।	Place your mind in detachment.	Positive
+76	सर्वाधाराणि मनोजव।	All foundations of thought are swift in the mind.	Neutral
+77	यः सम्यक्चिन्तयति स सफलः।	He who thinks rightly is successful.	Positive
+78	द्विविधा हि भवति पुरुषस्य प्रतिभावः।	Human temperament is twofold.	Neutral
+79	न हि ज्ञानेन सदृशं पवित्रमिह विद्यते।	Nothing here is as purifying as knowledge.	Positive
+80	श्रेयो हि ज्ञानं प्राहुर्विचक्षणा लोकसृजिनः।	Those wise declare knowledge superior.	Positive
+81	ज्ञानेन तु तदज्ञानं येषां नाशितमात्मनः।	For those whose ignorance is destroyed by knowledge...	Positive
+82	समत्वं योग उच्यते।	Equanimity is called yoga.	Positive
+83	कर्मण्यभिप्रयोऽवस्थितो हि।	One fixed in action without desire...	Neutral
+84	नेषु चित्त विकर्षणमस्ति।	The mind is not easily diverted.	Neutral
+85	अभयदानं न त्यजेत्।	Do not give up offering fearlessness.	Positive
+86	नित्यसंन्यासी प्रकृतिनिर्वानश कृत्।	The true renouncer attains natural liberation.	Positive
+87	कर्मण्यभिप्रयो हि तु।	Action aimed rightly indeed...	Neutral
+88	जीवलोकस्य प्रवर्तते।	Lives in the world performing duty.	Neutral
+89	असंशयं महाबाहो।	Without doubt, O mighty-armed one.	Neutral
+90	ममैवांशो जीवलोके जीवभूतः सनातनः।	The living being is My eternal fragment.	Neutral
+91	सर्वभूतस्थमात्मा।	The Self abides in all beings.	Neutral
+92	नान्यः शास्त्रवित्परिद्धि।	No other authority surpasses scripture.	Neutral
+93	मनोबुद्ध्यहंका रागद्वेषैः।	Mind, intellect, ego—clouded by attachment and aversion.	Negative
+94	संस्पर्शेष्वहं कारणम्।	I am the cause of contact and separation.	Neutral
+95	यथा तमसा गतः सर्पः।	Like a snake in darkness—without self-knowledge.	Negative
+96	निर्ममो निरहङ्कारः।	Without selfishness, without ego.	Positive
+97	कृतकृत्यप्रवृत्तिं त्यजेत्।	Abandon actions born of doer-ness.	Neutral
+98	नित्यशुद्धात्मा समायेर्त।	The eternally pure self is realized in union.	Positive
+99	यत्र योगश्च स्थितोऽन्ते।	Where yoga is established in the end...	Positive
+100	सर्वेषु भूतेषु चात्मानं।	In all beings, the Self is to be seen.	Neutral
+101	अहङ्कारा हि क्रियाशक्तिः।	Ego is indeed the power of action.	Neutral
+102	बुद्धिस्थापनं कुरु।	Establish the mind in wisdom.	Positive
+103	असक्तात्मा सफलः।	The unattached are successful.	Positive
+104	संस्मृत्या च विभाव्यते।	Through recollection things are discerned.	Neutral
+105	यः सर्वत्र समोऽभ्याचरेत्।	He who acts equally everywhere...	Positive
+106	नैवं शोकमप्राप्तं कुरु।	Do not grieve thus for the unachieved.	Neutral
+107	न हि प्रजाः सन्त्यधिकारिणः।	No creatures are without their share.	Neutral
+108	अहं प्रवर्तकः।	I am the active principle.	Neutral
+109	मानवाधिपतिः।	The lord among humans—(be steady).	Neutral
+110	नियतं कुरु कर्म त्वं।	Perform prescribed duty.	Neutral
+111	नैव तत्समश्चित्रम्।	There is no equal counterexample.	Neutral
+112	मुक्तो यः स तेन भवेत्।	He who is liberated becomes that.	Positive
+113	इन्द्रियाणि पराण्यहुरात्मा।	The Self is above the senses.	Neutral
+114	विपरीतमनेन विना।	Not without turning the mind inward.	Neutral
+115	वैराग्येन परं सुखम्।	Detachment yields supreme happiness.	Positive
+116	अन्तःकरणे कठिनम्।	Inward discipline is difficult.	Neutral
+117	समत्वं मम धर्मः।	Equanimity is My law.	Positive
+118	न त्वहं तवाश्रयः।	I am not dependent on you.	Neutral
+119	अहंकारो बन्धकः।	Ego is a bond.	Negative
+120	यथोद्दिष्टं कुरु अर्जुन।	Do as instructed, O Arjuna.	Neutral
+121	अद्वितीयं ब्रह्म।	Brahman is without a second.	Neutral
+122	सत्यमेव जयते।	Truth alone conquers.	Positive
+123	सुखदुःखसमानम्।	Equal in joy and sorrow.	Positive
+124	यज्ञेनाहं अपरं।	By sacrifice I am upheld.	Neutral
+125	निहत्य शत्रून् धर्मेण।	Slaying enemies by righteousness.	Neutral
+126	राजन्स्तु तस्य ज्ञानम्।	Knowledge is the king’s wealth.	Neutral
+127	पापानि च सर्वाणि।	All sins are removed.	Positive
+128	धृतिः परमो बलम्।	Fortitude is the supreme strength.	Positive
+129	परित्राणाय साधूनाम्।	For the protection of the righteous.	Positive
+130	नास्त्यायुषः परम्।	There is nothing greater than life.	Neutral
+131	श्रेयः परं ब्रवीमि।	I tell you the highest good.	Positive
+132	सत्त्वं परम भूषणम्।	Sattva (purity) is the supreme ornament.	Positive
+133	रजोगुणसमुद्भवं।	Arises from tamas and rajas.	Negative
+134	सम्यग्दर्शनं परं ज्ञानम्।	Right perception is supreme knowledge.	Positive
+135	श्रद्धावान् लभते ज्ञानम्।	One with faith attains knowledge.	Positive
+136	योगिनो महत्त्वं विना।	Qualities of great yogis—without pride.	Positive
+137	दिव्यं चक्षुर्लभते।	They obtain the divine eye.	Positive
+138	सर्वदा विषये चिन्त्यते।	Always thinking of objects binds one.	Negative
+139	नैव तेषां समतुल्यम्।	There is no equal among them.	Neutral
+140	ममाश्रयं गच्छन्ति।	They take refuge in Me.	Positive
+141	करोति योऽपि मामनुसरन्।	Whoever follows Me acts rightly.	Positive
+142	विघ्नमपि न भवति।	No obstacle remains.	Positive
+143	सत्यमेव व्यवस्थितम्।	Truth stands established.	Positive
+144	नहुयम् आत्मनः कारणम्।	I am not the cause of the self's ignorance.	Neutral
+145	विद्या विनयसम्पन्ने ब्राह्मणे गवि हस्तिनि।	On the learned, humility bestows greatness.	Positive
+146	न्यायपरिणामेण।	By rightful consequence.	Neutral
+147	कुरु भारतपुत्र।	Do, O son of Bharata.	Neutral
+148	निराश्रमणं कुरु।	Perform actions without seeking rest.	Neutral
+149	ध्यानयोगेन समाहिताः।	Steady through meditation.	Positive
+150	न मे प्रियं द्विषतः।	I have no love for haters.	Neutral
+151	सम्यक्संकल्पे सन्नद्धः।	Prepared with right resolve.	Positive
+152	यथा संहरते चायं कूर्मोऽङ्गानीव सर्वशः।	Withdraw senses as a tortoise withdraws limbs.	Positive
+153	विनम्रता परम धर्मः।	Humility is the supreme duty.	Positive
+154	अहर्निशं तपसं शीलम्।	Day and night, austerity and conduct.	Positive
+155	सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज।	Abandon all dharmas and take refuge in Me.	Positive
+156	विपरीतं बुद्धयः कार्यं न करिष्यन्ति।	Those of inverted intellect do not act rightly.	Negative
+157	नश्चित्तवृत्तिः सन्ध्या।	Mind-waves are calmed by twilight meditation.	Neutral
+158	यस्यान्तःकरणं शुद्धम्।	Whose inner being is pure...	Positive
+159	स्वभावजं कर्म कौशलम्।	Skill in action arises from nature.	Neutral
+160	सहजं ब्रह्मसमाधिः।	Attainment of Brahman is natural for some.	Positive
+161	अस्मिन्स्थितः समाचरन्।	Established in this, act equally.	Positive
+162	न हि कर्म का अपवर्गः।	Not every action leads to liberation.	Neutral
+163	नियतं कुरु कर्म त्वम्।	Perform your prescribed duty.	Neutral
+164	नैव तत्र परायुजनम्।	Therein is no vanquished soul.	Neutral
+165	विहाय कामान्यः सर्वान्।	Abandoning all desires...	Positive
+166	मुक्त्वा सर्वानकर्माणि।	Having renounced all actions.	Positive
+167	सर्वदा समः सन्नतः।	Always equally poised.	Positive
+168	न मेऽत एव संस्पर्शः।	My contact is not as you think.	Neutral
+169	असंयोगविकारः।	The change is due to contact and separation.	Neutral
+170	अहं प्रतिभमयः सर्वदा।	I am ever the splendor of beings.	Neutral
+171	न मे हृदयेषु स्थितिः।	I do not reside only in hearts.	Neutral
+172	यत्र योगेश्वरः कृष्णो यत्र पार्थो धनुर्धरः।	Where Krishna is Lord and Partha the archer...	Positive
+173	तत्रिभवति सुसमृद्धिः।	There arises great prosperity there.	Positive
+174	यत्र सर्वे सम्मताः।	Where all agree...	Neutral
+175	अज्ञानं कर्मणाम्।	Ignorance in actions leads to bondage.	Negative
+176	ज्ञानं परमो बलम्।	Knowledge is supreme strength.	Positive
+177	आत्मनस्तनुशुद्धिः।	Purification of the Self-body.	Positive
+178	ध्यानयोगः परमोत्कर्षः।	Meditation-yoga is the highest excellence.	Positive
+179	नैतदात्मनि स्थितम्।	This is not established in the Selfless.	Neutral
+180	निर्वाणं परमानन्दम्।	Nirvana is supreme bliss.	Positive
+181	सर्वतः प्रतिष्ठितम्।	Established everywhere.	Neutral
+182	यज्ञश्च सर्वधर्मोत्थानम्।	Sacrifice upholds all dharmas.	Neutral
+183	नन्दीकृत्य च कर्म।	Act with joy in duty.	Positive
+184	आत्मज्ञानं परमं।	Self-knowledge is supreme.	Positive
+185	मत्परः स मे प्रियः।	He is dear to Me who is devoted.	Positive
+186	कृष्णार्पणं मनःस्वीकारः।	Offer mind to Krishna.	Positive
+187	समत्वं त्विदं परम्।	This equanimity is supreme.	Positive
+188	नैव तस्य परायणम्।	There is no other refuge for him.	Neutral
+189	यच्छ्रेयः सुहृदः वदेत्।	Speaks what is for the welfare of friends.	Positive
+190	दुर्लभं हि स साक्षात्।	It is indeed hard to attain directly.	Neutral
+191	रजसिकं क्रोधहेतुकम्।	Rajas causes anger.	Negative
+192	तस्माद्योगाय युज्यस्व।	Therefore be dedicated to yoga.	Positive
+193	न हि परस्परवोक्ताः।	Not mutually stated elsewhere.	Neutral
+194	संसर्गवर्जितम्।	Devoid of contact.	Positive
+195	वैराग्यमुपेत्य भावः।	A state endowed with detachment.	Positive
+196	कर्तव्योऽहं धर्मतः।	I must act according to dharma.	Neutral
+197	नैव तु स महात्मा।	Not so, indeed he is great.	Neutral
+198	अतिथि मित्र परम।	Kindness to guests is supreme.	Positive
+199	परमार्थसिद्धये।	For the attainment of the supreme goal.	Positive
+200	मोक्षार्थं कुर्वाणः सर्वदा स्तः।	One who acts for liberation is always praised.	Positive
