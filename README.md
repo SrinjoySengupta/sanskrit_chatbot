@@ -24,7 +24,7 @@ Cross-platform deployment capability on local or cloud environments
 
 Tech Stack
 
-Languages & Libraries: Python, NLTK,FastApi
+Languages & Libraries: Javascript, HTML, CSS, Python, NLTK, FastApi, NodeJS
 
 Frontend: Gradio Web Interface
 
